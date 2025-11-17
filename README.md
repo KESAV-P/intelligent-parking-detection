@@ -1,10 +1,9 @@
-##🚗 Intelligent Parking Detection System
+# 🚗 Intelligent Parking Detection System
 =========================================
-
 Real-time parking slot occupancy detection using computer vision and a CNN classifier.
 Slots are manually annotated, scaled to video dimensions, and classified as FREE or OCCUPIED live on video.
 ***********************************************************************************************************
-# 📑 Table of Contents
+## 📑 Table of Contents
 - [Overview](#overview)
 - [Goal of the-project](#goal-of-the-project)
 - [Problem Statement](#problem-statement)
@@ -17,13 +16,13 @@ Slots are manually annotated, scaled to video dimensions, and classified as FREE
 - [Future Improvements](#future-improvements)
 - [Author](#author)
 ************************************************************************************************************
-# The system highlights:
+### The system highlights:
 	•	🟩 FREE slot
 	•	🟥 OCCUPIED slot
 
 ⸻
 
-#🎯 Goal of the Project
+## 🎯 Goal of the Project
 	•	Build a real-time parking occupancy detector
 	•	Use polygon-based slot annotation for accurate ROI extraction
 	•	Classify each slot using a deep learning model
@@ -41,7 +40,7 @@ Challenges include:
 	•	Perspective distortions
 	•	Camera shake/focus issues
 
-⸻
+***********************************************************************************************************************************************************************
 
 🔄 Project Workflow
 
@@ -67,3 +66,4 @@ Challenges include:
 4. Output
 	•	Live video showing occupancy status
 	•	Each slot labeled with confidence score
+
