@@ -63,7 +63,5 @@ Challenges include:
 	5.	Draw red/green overlays
 	6.	Display FPS + output
 
-4. Output
-	•	Live video showing occupancy status
-	•	Each slot labeled with confidence score
+
 
